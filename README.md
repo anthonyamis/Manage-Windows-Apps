@@ -1,1 +1,1 @@
-Checking Performance Monitor and other Software Bundled with Windows for Monitoring.
+Checking Performance Monitor and other Software Bundled with Windows for Managing.
